@@ -22,3 +22,8 @@ npm start
 ```
 
 Pronto! O projeto estará rodando nas portas 3000 e 3001.
+
+Para fazer os testes na pasta client
+```bash
+npm test
+```

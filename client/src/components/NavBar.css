@@ -1,0 +1,27 @@
+.navBar {
+    color: lightgray;
+    background-color: purple;
+    min-height: 15vh;
+    padding: 5vh;
+    margin-bottom: 5vh;
+}
+
+.bi{
+    margin: 0 0.5vh 0 -2vh;
+}
+
+#search{
+    width: 70%;
+}
+
+#logo{
+    height: 5vh;
+}
+
+input{
+    margin: 0 1vh
+}
+
+.inputs, #favoriteRecipes {
+    margin-top: 3vh;
+}

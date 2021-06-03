@@ -1,0 +1,9 @@
+.header{
+    background-color: purple;
+    margin-bottom: 5vh;
+}
+
+#headerTitle{
+    margin: 5vh;
+    color: lightgray;
+}

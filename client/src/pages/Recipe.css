@@ -1,0 +1,25 @@
+#recipe{
+    padding: 5vh;
+}
+
+#drinkImage{
+    width: 80%;
+    object-fit: cover;
+    border-radius: 5vh;
+    margin-bottom: 3vh;
+}
+
+.favorite{
+    font-size: 4vh;
+}
+
+.drinkRecipeTitle{
+    margin-bottom: 3vh;
+}
+
+.drinkRecipe{
+    padding: 3vh;
+    background-color: darkgray;
+    border: solid white 1vh;
+    border-radius: 5vh;
+}
